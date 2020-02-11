@@ -1,1 +1,1 @@
-// JavaScript to be added
+var button = window.prompt("join oun mailing list");
